@@ -1,0 +1,12 @@
+h1 {
+    color: red;
+}
+
+
+.button-one {
+    background-color: #222;
+    color: #fff;
+    cursor: pointer;
+    border: none;
+    
+}

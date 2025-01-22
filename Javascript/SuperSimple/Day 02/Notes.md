@@ -1,0 +1,13 @@
+# HTML CSS Review and console.log()
+- downloading code editor
+- running first html file
+- linking css and js to it
+- button
+- p
+- h
+- br
+- basic css syntax rules
+- basic css properties
+- html attribute with syntax
+- title
+- class
